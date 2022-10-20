@@ -12,7 +12,7 @@ chmod +x ./caddy
 
 echo '
  {
-    "log": {"loglevel": "warning"},
+    "log": {"loglevel": "none"},
     "inbounds": [
         {
             "port": 4000,
